@@ -1,0 +1,7 @@
+{
+  "name": "ZirumaDoc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
